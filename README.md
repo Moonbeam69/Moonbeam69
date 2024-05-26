@@ -25,11 +25,10 @@ I've seen test automation-first approaches and CICD pipelines on a few of my las
   - Webkit (Safari)
 
 - Test tools
- - Rest-Assured / RestSharp
- - Wiremock
-
-- Browserstack integration
-  - Chrome 
+  - Rest-Assured / RestSharp
+  - Wiremock
+  - Allure (TBD)
+  - Browserstack integration
  
 - Docker image creation
  - JAR deployment and execution

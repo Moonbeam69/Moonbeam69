@@ -3,7 +3,7 @@
 <!--
 **Moonbeam69/Moonbeam69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I've seen test automation-first approaches and CICD pipelines on a few of my last projects. I wanted to have deeper understanding of the complexities setting this up from scratch and so here I am. Currently, I'm workng on a couple of demo projects that feature:
+I've managed test automation-first approaches and CICD pipelines on a few of my last projects. The practical & commercial realities (read limitations) of these programmes has compelled me to setup my own project and experiment will tools, approaches and setups that will benefit in future. CICD demo emcompasses:
 
 - Github actions:
 
@@ -27,7 +27,7 @@ I've seen test automation-first approaches and CICD pipelines on a few of my las
 - Test tools
   - Rest-Assured / RestSharp
   - Wiremock
-  - Allure (TBD)
+  - Allure (TBD) & customer test reporting classes
   - Browserstack integration
  
 - Docker image creation

@@ -5,6 +5,11 @@
 
 I've managed test automation-first approaches and CICD pipelines on a number of recent projects. The practical & commercial realities (read limitations) of these programmes has compelled me to setup my own project and demonstrate tools, approaches and setups that will help me (and hopefully you!) on other projects.
 
+## eAssert
+
+ - custom assertions library for Java (not based on AssertJ or Truth)
+ - supports fluency
+
 ## CICD demo:
 
 - GitHub Actions:

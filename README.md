@@ -3,7 +3,7 @@
 <!--
 **Moonbeam69/Moonbeam69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I've managed test automation-first approaches and CICD pipelines on a number of recent projects. The practical & commercial realities (read limitations) of these programmes has compelled me to setup my own project and demonstrate tools, approaches and setups that will help me (and hopefully you!) on other projects.
+I've built a nunmber of show case projects to develop my understanding and demonstrate some best practive approaches. I've used both Gemini or ChatGPT as co-pilot and have picked up some super interesting experiences with these along the way.
 
 ## eAssert
 

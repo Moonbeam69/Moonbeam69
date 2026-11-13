@@ -5,6 +5,14 @@
 
 I've built a number of show case projects to develop my understanding of software engineering approaches and demonstrate some best practice. I've used both Gemini or ChatGPT as co-pilot and have picked up some super interesting experiences with these along the way.
 
+## SurreySkywatch - mySky.now
+
+ - knowledge pages presented to casual, experienced and scientist-level users
+ - interactive map site with
+ - AR capability and photo retrieval and storage capabilities
+ - interactve map with open-source ADSB flight data
+ - open source GLB 3D models with sounds in simulated RT scenes 
+
 ## eAssert
 
  - custom assertions library for Java (not based on AssertJ or Truth)

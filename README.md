@@ -5,7 +5,7 @@
 
 I've built a number of show case projects to develop my understanding of software engineering approaches and demonstrate some best practice. I've used both Gemini or ChatGPT/Codex as co-pilot and have picked up some super interesting experiences with these along the way.
 
-## SurreySkywatch - Live site: [Link Text](mySky.now) (currently in Beta)
+## SurreySkywatch - Live site: [mySky.now](mySky.now) (currently in Beta)
 
  - knowledge pages presented to casual, experienced and scientist-level users
  - interactive map site with

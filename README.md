@@ -3,7 +3,7 @@
 <!--
 **Moonbeam69/Moonbeam69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I've built a number of show case projects to develop my understanding of software engineering approaches and demonstrate some best practice. I've used both Gemini or ChatGPT as co-pilot and have picked up some super interesting experiences with these along the way.
+I've built a number of show case projects to develop my understanding of software engineering approaches and demonstrate some best practice. I've used both Gemini or ChatGPT/Codex as co-pilot and have picked up some super interesting experiences with these along the way.
 
 ## SurreySkywatch - mySky.now
 
